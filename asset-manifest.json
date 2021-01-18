@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Warntouchface/static/css/main.f6b5dd65.chunk.css",
+    "main.js": "/Warntouchface/static/js/main.7af6da66.chunk.js",
+    "main.js.map": "/Warntouchface/static/js/main.7af6da66.chunk.js.map",
+    "runtime-main.js": "/Warntouchface/static/js/runtime-main.43189a2d.js",
+    "runtime-main.js.map": "/Warntouchface/static/js/runtime-main.43189a2d.js.map",
+    "static/js/2.ef524c4b.chunk.js": "/Warntouchface/static/js/2.ef524c4b.chunk.js",
+    "static/js/2.ef524c4b.chunk.js.map": "/Warntouchface/static/js/2.ef524c4b.chunk.js.map",
+    "static/js/3.f38e1cec.chunk.js": "/Warntouchface/static/js/3.f38e1cec.chunk.js",
+    "static/js/3.f38e1cec.chunk.js.map": "/Warntouchface/static/js/3.f38e1cec.chunk.js.map",
+    "index.html": "/Warntouchface/index.html",
+    "static/css/main.f6b5dd65.chunk.css.map": "/Warntouchface/static/css/main.f6b5dd65.chunk.css.map",
+    "static/js/2.ef524c4b.chunk.js.LICENSE.txt": "/Warntouchface/static/js/2.ef524c4b.chunk.js.LICENSE.txt",
+    "static/media/hey_sondn.8c2f8e9b.mp3": "/Warntouchface/static/media/hey_sondn.8c2f8e9b.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43189a2d.js",
+    "static/js/2.ef524c4b.chunk.js",
+    "static/css/main.f6b5dd65.chunk.css",
+    "static/js/main.7af6da66.chunk.js"
+  ]
+}
